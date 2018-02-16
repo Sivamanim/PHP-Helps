@@ -17,7 +17,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
-                    <h4 class="page-title m-t-0 m-b-20">Add Merchant</h4>
+                    <h4 class="page-title m-t-0 m-b-20">Google</h4>
                 </div>
             </div>
 			<div class="row">
