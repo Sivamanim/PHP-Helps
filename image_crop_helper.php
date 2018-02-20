@@ -81,7 +81,15 @@ return $image_url;
 
 }
 
+/*
+  // load  your controller 
+  $this->load->helper('image_crop');
+  $item_img = image_resize(150,150,base_url().'image/myimage.png','myimage.png');     
+  $params['company_logo'] = $item_img;  
 
+
+
+*/
 
   
 
