@@ -1,0 +1,10 @@
+<?php
+
+  $a_string = '<p>New Test</p>';
+  $b_string = '<p>New Test.</p>';
+  $a_string = preg_replace('/\s+/', '', strip_tags($a_string));
+  $b_string = preg_replace('/\s+/', '', strip_tags($b_string));
+  similar_text($a_string, $b_string, $perc);
+  echo $perc;
+
+?>
